@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "940659249341",
+    "firebase_url": "https://gupsup-958e0.firebaseio.com",
+    "project_id": "gupsup-958e0",
+    "storage_bucket": "gupsup-958e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940659249341:android:f6473b088a7486f9",
+        "android_client_info": {
+          "package_name": "com.apkglobal.gupsup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940659249341-1i8o0f2ikn4r0tp2nsohn2tn1gkgelt1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apkglobal.gupsup",
+            "certificate_hash": "cec3f4b3ce9560b6a8ed377bf31d71b2af4b0988"
+          }
+        },
+        {
+          "client_id": "940659249341-8aje3h7nat033gjquq7moghm911er259.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjD73NMx2Itl5F1Vhntv1Y2P-oUKFzTN4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940659249341-8aje3h7nat033gjquq7moghm911er259.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
